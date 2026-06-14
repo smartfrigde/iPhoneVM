@@ -108,6 +108,11 @@ Potential downsides include:
 * Slower performance when swapping occurs
 * Possible UI lag under heavy memory pressure
 
+## dynamic_pager manpage
+Here's a missing (inside of OS-X) manpage taken from O'Reillys book - "Mac OS X for UNIX Geeks".
+<img width="593" height="485" alt="obraz" src="https://github.com/user-attachments/assets/4eb6f167-4669-4197-9bfb-5118452c38e5" />
+
+
 ## Credits
 
 * Original iPhoneVM authors (beyouriphone.com)
